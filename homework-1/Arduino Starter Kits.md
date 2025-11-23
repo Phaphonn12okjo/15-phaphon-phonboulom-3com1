@@ -11,7 +11,7 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029162731.png]](./images/Pasted image 20251029162731.png)
+![[Pasted image 20251029162731.png]](./images/Pasted_image_20251029162731.png)
 ![[Pasted image 20251029151541.png]]
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
