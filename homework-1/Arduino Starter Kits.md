@@ -577,7 +577,6 @@ Arduino ຕ້ອງໃຊ້ຟັງຊັນ **tone()** ເພື່ອສົ
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
 ![Infrared Remote Control](./images/Infrared_remote_control.png)
-![Infrared_remote_control_DIagram.png](Infrared_remote_control_DIagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
