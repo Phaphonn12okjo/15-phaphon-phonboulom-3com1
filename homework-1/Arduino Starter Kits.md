@@ -11,13 +11,8 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-<<<<<<< HEAD
 ![[Arduino_Uno_Board.png]](./images/Arduino_Uno_Board.png)
 ![[Arduino_Uno_Board_Diagram.png]](./images/Arduino_Uno_Board_Diagram.png)
-=======
-![[Pasted_image_20251029162731.png]](./imagesPasted_image_20251029162731.png)
-![[Pasted image 20251029151541.png]]
->>>>>>> 76515aabdc4e6cb3f4a22e5ebe38ea78c3c51511
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
