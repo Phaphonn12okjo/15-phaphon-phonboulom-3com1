@@ -11,8 +11,8 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029162731.png]]
-![[Pasted image 20251029151541.png]]
+![[Arduino_Uno_Board.png]](./images/Arduino_Uno_Board.png)
+![[Arduino_Uno_Board_Diagram.png]](./images/Arduino_Uno_Board_Diagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -29,8 +29,8 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029151714.png]]
-![[Pasted image 20251029151809.png]]
+![[Breadboard.png]](./images/Breadboard.png)
+![[Breadboard_Diagram.png]](./images/Breadboard_Diagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -47,8 +47,8 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029163106.png]]
-![[Pasted image 20251029163151.png]]
+![[USB_Cable.png]](./images/USB_Cable.png)
+![[USB_Cable_Diagram.png]](./images/USB_Cable_Diagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -75,7 +75,7 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029163404.png]]
+![[Jumper_Wires_MTM.png]](./images/Jumper_Wires_MTM.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -92,7 +92,7 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029163540.png]]
+![[Jumper_Wires_MTF.png]](./images/Jumper_Wires_MTF.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -109,7 +109,7 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029163607.png]]
+![[Jumper_Wires_FTF.png]](./images/Jumper_Wires_FTF.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -126,8 +126,8 @@
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029163639.png]]
-![[Pasted image 20251029163913.png]]
+![[9V_Battery_Connector.png]](./images/9V_Battery_Connector.png)
+![[9V_Battery_Connector_Diagram.png]](./images/9V_Battery_Connector_Diagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -158,11 +158,11 @@ LED ເຮັດວຽກເປັນໄດໂອດ; ໄຟຟ້າຕ້ອ�
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029165704.png]]
-![[Pasted image 20251029165732.png]]
-![[Pasted image 20251029165825.png]]
-![[Pasted image 20251029165853.png]]
-![[Pasted image 20251029164116.png]]
+![[Red_LEDs.png]](./images/Red_LEDs.png)
+![[Yellow_LEDs.png]](./images/Yellow_LEDs.png)
+![[Blue_LEDs.png]](./images/Blue_LEDs.png)
+![[RGB.png]](./images/RGB.png)
+![[LEDs_Diagram.png]](./images/LEDs_Diagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -179,8 +179,8 @@ LED ເຮັດວຽກເປັນໄດໂອດ; ໄຟຟ້າຕ້ອ�
 
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
-![[Pasted image 20251029164312.png]]
-![[Pasted image 20251029164237.png]]
+![[RGB_Module.png]](./images/RGB_Module.png)
+![[RGB_Module_Diagram.png]](./images/RGB_Module_Diagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
