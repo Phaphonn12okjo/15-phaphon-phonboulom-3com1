@@ -577,7 +577,7 @@ Arduino ຕ້ອງໃຊ້ຟັງຊັນ **tone()** ເພື່ອສົ
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
 ![Infrared Remote Control](./images/Infrared_remote_control.png)
-![Infrared Remote Control Diagram](./images/Infrared_remote_control_Dlagram.png)
+![Infrared_remote_control_DIagram.png](Infrared_remote_control_DIagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
@@ -632,7 +632,7 @@ Arduino ຕ້ອງໃຊ້ຟັງຊັນ **tone()** ເພື່ອສົ
 ### 3. **ຂໍ້ມູນລາຍລະອຽດອຸປະກອນ**
 
 ![Relay Module](./images/Relay_Module.png)
-![Relay Module Diagram](./images/Relay_Module_Dlagram.png)
+![Relay_RFID_Module_Diagram.png](./images/Relay_Module_DIagram.png)
 
 ### 4. **ຕົວຢ່າງການນໍາໃຊ້:**
 
